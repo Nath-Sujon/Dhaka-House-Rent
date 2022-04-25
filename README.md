@@ -1,2 +1,2 @@
 # Dhaka-House-Rent
-Linear Regression (Least Square Method)
+Machine learning :Linear Regression (Least Square Method)
